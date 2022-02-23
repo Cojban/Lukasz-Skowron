@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.17.3a"
+    "express": "^4.17.3"
   },
   "name": "heroku",
   "version": "1.0.0",
